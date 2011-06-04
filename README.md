@@ -17,3 +17,10 @@ If you find any issue with some tip, either submit a pull request of submit an i
 # Enjoy
 
 Thanks, and enjoy the tips.
+
+# Authors
+
+Commands were currently provided by:
+
+- Rodrigo Rosenfeld Rosas
+- Igor Aguiar
